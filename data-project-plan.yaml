@@ -1,0 +1,288 @@
+---
+-
+    Phase: Discovery
+    Subphase: Use Case Documentation
+    Task:
+    Responsible:
+    Effort (days):
+    Notes: Interview responsible parties to find out how they plan to view, manipulate, or report on data.
+-
+    Phase: Discovery
+    Subphase: Data source inventory
+    Task: Master data vs. transaction data
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Data source modeling
+    Task: Volume
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Data source modeling
+    Task: Velocity
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Data source modeling
+    Task: Veracity
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Security
+    Task: Access patterns
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Performance
+    Task: Document volume and velocity of system needs
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Discovery
+    Subphase: Performance
+    Task: Uptime requirements
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Governance
+    Task: data lineage - what is being used downstream
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Governance
+    Task: data quality
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Governance
+    Task: data access
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Cataloging
+    Task: Design system
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Cataloging
+    Task: Tagging
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Security
+    Task: Access policies
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Security
+    Task: Encryption
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Security
+    Task: Protection
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Security
+    Task: Compliance needs
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Security
+    Task: Logging
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Ingestion
+    Task: Transformations
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Ingestion
+    Task: Tools
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Ingestion
+    Task: ETL
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Monitoring
+    Task: Resource utilization
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Monitoring
+    Task: Object volume
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Optimization
+    Task: Lifecycle policies
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Optimization
+    Task: Ingestion limits
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Optimization
+    Task: Failure handling
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Optimization
+    Task: Compression
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Optimization
+    Task: ETL Formatting
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Networking
+    Task: Subnetting for EMR
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Networking
+    Task: Ingestion networking
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Networking
+    Task: Landing Zone
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Data Sources
+    Task: Define all resources
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Data Sources
+    Task: Define bucket names
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Analytics
+    Task: Ad hoc
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Analytics
+    Task: Batch / recurring
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Analytics
+    Task: Visualizations
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Migration of ETL away from EDW to API
+    Task: Decoupling of ETL
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Migration of ETL away from EDW to API
+    Task: Establish move groups
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Migration of ETL away from EDW to API
+    Task: Build backlog of sprint team tasks
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Design
+    Subphase: Migration of ETL away from EDW to API
+    Task: Decide on sprint team composition and numbers
+    Responsible:
+    Effort (days):
+    Notes:
+-
+    Phase: Workshops
+    Subphase: Migration of ETL away from EDW to API
+    Task: ETL
+    Responsible:
+    Effort (days):
+    Notes:
